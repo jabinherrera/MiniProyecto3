@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "MiniProyecto3"
+  site-url: "https://jabinherrera.github.io/MiniProyecto3"
+  description: "Mini proyecto de datos"
+  repo-branch: main
+  repo-url: "https://github.com/jabinherrera/MiniProyecto3"
